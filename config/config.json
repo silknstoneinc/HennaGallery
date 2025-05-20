@@ -1,0 +1,78 @@
+{
+    "app": {
+        "name": "Henna Gallery Editor",
+        "theme": "light",
+        "version": "1.0.0"
+    },
+    "colors": {
+        "accent": "#4A6FA5",
+        "background": "#F8F9FA",
+        "danger": "#DC3545",
+        "dark": "#212529",
+        "primary": "#A8D5BA",
+        "secondary": "#D8C6B8",
+        "success": "#28A745",
+        "warning": "#FFC107"
+    },
+    "export_settings": {
+        "format": "webp",
+        "max_height": 1200,
+        "max_width": 1200,
+        "preserve_metadata": true,
+        "quality": 85,
+        "resize_enabled": true
+    },
+    "fonts": {
+        "body": [
+            "Georgia",
+            12
+        ],
+        "button": [
+            "Georgia",
+            12,
+            "bold"
+        ],
+        "heading": [
+            "Georgia",
+            16,
+            "bold"
+        ],
+        "small": [
+            "Georgia",
+            10
+        ],
+        "title": [
+            "Georgia",
+            24,
+            "bold"
+        ]
+    },
+    "gallery": {
+        "batch_size": 50,
+        "default_sort": "date_desc",
+        "supported_extensions": [
+            ".jpg",
+            ".jpeg",
+            ".png",
+            ".webp"
+        ],
+        "thumbnail_size": 120
+    },
+    "tag_suggestions": [
+        "henna",
+        "design",
+        "hand",
+        "foot",
+        "arabic",
+        "indian",
+        "bridal",
+        "traditional",
+        "modern",
+        "floral"
+    ],
+    "ui_settings": {
+        "animation_enabled": true,
+        "default_view": "grid",
+        "preview_quality": "high"
+    }
+}
